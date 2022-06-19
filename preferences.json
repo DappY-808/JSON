@@ -1,0 +1,23 @@
+{
+    "favouriteFilms": [
+        "Detachment, 2011",
+        "The Village, 2004",
+        "Seven, 1995",
+        "The Silence of the Lambs, 1991",
+        "Wolfwalkers, 2020"
+    ],
+    "favouriteSeries": [
+        "True Detective",
+        "Archive 81",
+        "Mr. Robot",
+        "Love, Death & Robots",
+        "The Boys"
+    ],
+    "favouriteBooks": [
+        "1984, by George Orwell",
+        "The Road, by Cormac McCarthy",
+        "Portrait, by Nikolai Gogol",
+        "The Night in Lisbon, by Erich Maria Remarque"
+    ]
+    
+}

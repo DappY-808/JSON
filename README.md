@@ -1,5 +1,8 @@
 #GIT homework
-GIT homework in at vadim ksendzov's cours
+
+Some information about me ;)
+
+For GIT homework at Vadim Ksendzov's course
 
 [course link](https://ksendzov.com/)
 
