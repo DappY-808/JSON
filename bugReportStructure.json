@@ -1,0 +1,33 @@
+{
+    "bugReportStructure": {
+        "Summary": "In this field you need to briefly state the essence of the bug",
+        "Description": "A broader description of the essence of the bug, if necessary", 
+        "Steps To Reproduce": "Descriptions of the Steps for reproduction",
+        "Actual Result": "Indicate what works wrong, at what place in the product and under what conditions", 
+        "Expected Result": "How exactly the system should work according to the documentation or the opinion of the tester",
+        "Attachments": "Attach files to bug reports, such as screenshots, videos, or log files", 
+        "Priority": [
+            "High", 
+            "Medium",
+            "Low"
+        ],
+        "Severity": [
+            "Blocker",
+            "Critical",
+            "Major",
+            "Minor",
+            "Tweak",
+            "Text"
+        ], 
+        "Status": [
+            "New",
+            "Feedback",
+            "Acknowledged",
+            "Accepted",
+            "Assigned",
+            "Resolved",
+            "Closed"
+        ],
+        "Environment": "Indicates on which platform this defect is reproduced"
+    }
+}
